@@ -1,6 +1,6 @@
 # SDM – *Alouatta belzebul*
 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24426806.svg)](https://doi.org/10.5281/zenodo.24426806)
 
 R script for species distribution modelling (SDM) of *Alouatta belzebul* using
 the biomod2 package (v4.2-5).
