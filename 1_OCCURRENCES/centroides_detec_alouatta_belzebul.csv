@@ -1,0 +1,8 @@
+Longitude,Latitude,begin,end,layer,path,Fragmento
+-34.9568032540722,-7.01364290267152,"41","44",Caminhos,"LineString?crs=EPSG:4326&field=begin:string(0,0)&field=end:string(0,0)&uid={37757fbc-2a14-4e39-9ba6-39736cc98dc6}",RPPN Engenho Gargaú
+-35.0816634504711,-7.00078123941582,"57","58",Caminhos,"LineString?crs=EPSG:4326&field=begin:string(0,0)&field=end:string(0,0)&uid={857bcfd9-f1d7-49ae-8ea8-25c607187fd6}",Mata Sucupira
+-35.8911691263094,-9.5354606943052,"22","72",Caminhos,"LineString?crs=EPSG:4326&field=begin:string(0,0)&field=end:string(0,0)&uid={d06b43a9-4088-43d3-bc9b-b210625594ea}",RPPN Mata de Cedro
+-35.0021469693601,-6.40386041734658,"35","79",Caminhos,"LineString?crs=EPSG:4326&field=begin:string(0,0)&field=end:string(0,0)&uid={ac9de9ba-1cbd-4360-88e5-87ebf2dd052f}",RPPN Mata Estrela
+-35.1618794238208,-6.69225922904667,"54","86",Caminhos,"LineString?crs=EPSG:4326&field=begin:string(0,0)&field=end:string(0,0)&uid={c3d285e4-980b-40d7-b4c5-c2f939d0b116}",REBIO Guaribas
+-35.6751469131724,-9.4146568603779,"19","68",Caminhos,"LineString?crs=EPSG:4326&field=begin:string(0,0)&field=end:string(0,0)&uid={81b15125-6f48-4cad-b9be-f6a4541f24c2}",Complexo Maceió-Paripueira
+-35.0733363971196,-6.96395698891439,"30","77",Caminhos,"LineString?crs=EPSG:4326&field=begin:string(0,0)&field=end:string(0,0)&uid={434201c7-0d35-47e0-857f-a86bfb74d602}",Mata Capitão
